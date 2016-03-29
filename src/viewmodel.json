@@ -470,14 +470,14 @@
             "speakers": [
               {
                 "name": "Hågen Pihlstrøm Hasle",
-                "bio": "Hågen er faglig svært dyktig, og er også en omgjengelig og trivelig person. Han blir alltid godt likt av de han arbeider sammen med, både på grunn av sin evne til å sette seg inn i og løse forskjellige typer faglige utfordringer, men også fordi han alltid stiller opp og er behjelpelig når andre står fast. Han har en god teknologiforståelse, er rask og samtidig systematisk.",
+                "bio": "Hågen er en utvikler med mange års erfaring fra Java og ulike store enterprise-y løsninger. Han har jobbet med JEE og ulike applikasjonsservere lengre enn han liker å innrømme, de siste årene hos Politiets IKT-tjenester som mellomvarearkitekt. Han har vært forelsket i Spring helt siden han leste den legendariske boka \"Expert One-on-One J2EE Development without EJB\", og synes Spring Boot er det kuleste siden oppskåret brød.",
                 "pic": "hph.jpg",
                 "email": "hph@knowit.no"
               }
             ],          
-            "title": "Microservices og JEE appservere- inkompatible størrelser",
+            "title": "Microservices og JEE appservere- inkompatible størrelser?",
             "type": "Lyntale (15 min)",
-            "description": ""
+            "description": "Alle utviklere som har jobbet med IBM WebSphere har i etterkant lært seg betydningen av ordene \"strategisk inkompetanse\". JEE applikasjonsservere ble umoderne for mange år siden, og ble først erstattet av Jetty og Tomcat, og deretter Rails, Node, og andre hipster-compliant løsninger. Samtidig har microservices blitt den nye bølgen, og det sier vel seg selv at microservices må være den endelige spikeren i kista til de store, monolittiske appserverne. Eller..? Vi tar en nærmere titt på hva en moderne appserver har å tilby!"
             },
         "hva_er_kreativitet": {
             "talkId": "hva_er_kreativitet",
@@ -577,9 +577,9 @@
                 "email": "kristr@knowit.no"
               }
             ],          
-            "title": "Python",
+            "title": "Flask - Et lettvektig webrammeverk i Python",
             "type": "Lyntale (10 min)",
-            "description": ""
+            "description": "Flask er et utrolig lettvektig webrammeverk i Python som lar deg fyre opp en enkel webserver og lytte på endpoints på sekunder! Perfekt til hjemmeprosjekter og interne løsninger."
             },
         "scala": {
             "talkId": "scala",
