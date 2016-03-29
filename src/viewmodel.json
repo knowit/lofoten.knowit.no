@@ -485,14 +485,14 @@
             "speakers": [
               {
                 "name": "Trygve Fridstrøm",
-                "bio": "Trygve Fridstrøm er god på å sette seg inn i nye domeneområder og utvikle løsninger for disse. Han har bred kompetansbakgrunn fra it-utvikling. Han er en ansvarsfull og god utvikler som lett glir inn i et utviklingsteam. I utviklingsteam bidrar han til et godt arbeidsmiljø gjennom sin omgjengelige væremåte. Han er interessert i å holde seg oppdatert faglig og har lett for å sette seg inn i ny teknologi. Trygve har jobbet i Know IT Objectnet siden starten, og har sin kjerne-kompetanse innenfor objektorientert modellering/utvikling. Han har jobbet mye med både datamodellering og datakonvertering, og har inngående kjennskap til teknologier og verktøy som: Java/J2EE, Scala, JBossESB, BEA WebLogic Server, VB, PHP, HTML, Javascript, UML, Rational Rose, Enterprise Architect, eZPublish, ulike datakonverteringsteknikker.",
+                "bio": "Trygve Fridstrøm er god på å sette seg inn i nye domeneområder og utvikle løsninger for disse. Han har bred kompetansbakgrunn fra it-utvikling. Han er en ansvarsfull og god utvikler som lett glir inn i et utviklingsteam. I utviklingsteam bidrar han til et godt arbeidsmiljø gjennom sin omgjengelige væremåte. Han er interessert i å holde seg oppdatert faglig og har lett for å sette seg inn i ny teknologi. Trygve har jobbet i Know IT Objectnet siden starten, og har sin kjerne-kompetanse innenfor objektorientert modellering/utvikling. Trygve spiller også horn i symfoniorkester, og underviser i yoga og meditasjon.",
                 "pic": "tfr.jpg",
                 "email": "tfr@knowit.no"
               }
             ],          
             "title": "Hva er kreativitet",
             "type": "Lyntale (20 min)",
-            "description": ""
+            "description": "Innlegget presenterer forskning, erfaringer og tenkemåter som kan være relevante i kreativitetens mangfoldige landskap. Vi er kanskje vant til å tenke at kreativitet er å programmere gode IT-løsninger. Men er det også andre sider ved jobben hvor kreativitet er viktig? Kan man være kreativ i hvordan man møter vanskelige personer? I hvordan man møter kunden? I hvordan man forholder seg til sine kolleger? Hvilke aktiviteter/teknikker kan åpne for kreativitet?"
             },
         "rekruttering": {
             "talkId": "rekruttering",
@@ -507,7 +507,7 @@
             ],          
             "title": "Rekruttering",
             "type": "Lyntale (10 min)",
-            "description": ""
+            "description": "De siste årene har vi lyktes bra med rekruttering, spesielt av nyutdannete. Bak dette ligger målrettet og langvarig arbeid siden 2011 - lyntalen inneholder litt historikk, og tar for seg hvorfor vi har lyktes og hvilke utfordringer vi fortsatt har."
             },
         "ibeacons": {
             "talkId": "ibeacons",
@@ -518,6 +518,12 @@
                 "bio": "Henning er en glad og engasjert systemutvikler som elsker teknologi og å bruke denne til å løse problemer på best mulig måte. Han trives med oppgaver som krever planlegging og gjennomtenking for å løses på en god måte. Han har variert erfaring, både fra backendsystemer utviklet med Java og Scala, til webapplikasjoner utviklet med Ruby on Rails, HTML5, CSS og JavaScript. I tillegg har han erfaring fra apputvikling til Apple iOS, da primært i det nye programmeringsspråket Swift. Han har bakgrunn fra NTNU der han fullførte sin mastergrad våren 2015.",
                 "pic": "hw.jpg",
                 "email": "henning.wold@knowit.no"
+              },
+              {
+                "name": "Christian Peter",
+                "bio": "Christian er utdannet ved NTNU i Trondheim og var ferdig med en master i informatikk våren 2015. Under studietiden jobbet Christian frivillig i den Internasjonale Student Festivalen i Trondheim, også kjent som ISFiT. Christian er en sosial person som liker å ta nye utfordringer på strak arm. Front-end utvikling er det Christian brenner mest for. Å kombinere tanker fra både designere og utviklere er det som skal til for å skape et front-end der brukeren trives.",
+                "pic": "cp.jpg",
+                "email": "christian.peter@knowit.no"              
               }
             ],          
             "title": "iBeacons i praksis: the good, the bad and the ugly",
@@ -617,7 +623,7 @@
               }
             ],          
             "title": "Bitcoin",
-            "type": "Lyntale (30 min)",
+            "type": "Foredrag (30 min)",
             "description": ""
             },
         "bli_forfatter": {
@@ -646,9 +652,9 @@
                 "email": "kes@knowit.no"
               }
             ],          
-            "title": "Swagger",
+            "title": "Swagger/OpenAPI Specification",
             "type": "Lyntale (20 min)",
-            "description": ""
+            "description": "Det snakkes veldig mye om API First i disse dager. I NDLA-prosjektet har vi omfavnet denne tankegangen, og har lekt oss med APIer det siste halvåret. Man kan påstå at et API ikke er bedre enn dokumentasjonen den tilbyr. I denne talken introduseres publikum for Swagger og OpenAPI Specification. Hva er dette, og hvordan komme i gang med Swagger?"
             },
         "the_next_big_thing": {
             "talkId": "the_next_big_thing",
