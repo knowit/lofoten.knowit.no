@@ -622,9 +622,9 @@
                 "email": "mikal.villa@knowit.no"
               }
             ],          
-            "title": "Bitcoin",
+            "title": "Introduksjon til Bitcoin",
             "type": "Foredrag (30 min)",
-            "description": ""
+            "description": "En gjennomgang av den offisielle Bitcoin klienten, og nettverket i seg selv. Her tar jeg opp komponentene til Bitcoin, og hvordan de jobber mot hverandre for å skape Bitcoin nettverket. Samt litt av utfordringene Bitcoin har. Etter introduksjonen skal deltakere ha en grunnleggende forståelse for hvordan Bitcoin og teknologien bak fungerer."
             },
         "bli_forfatter": {
             "talkId": "bli_forfatter",
