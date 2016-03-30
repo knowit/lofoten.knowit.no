@@ -16,14 +16,14 @@
               "time": "15:00-17:00 Ad-hoc-fagråd",
               "description": "(Rom: Rorbu) De som har lyst drodler rundt fagarbeid/strategi på en whiteboard.",
               "isBreak": true
-          }, 
+          },
           {
               "time": "17:00-18:00 Abstractsmie",
               "description": "(Rom: Rorbu) Uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig.",
               "isBreak": true
           }
           ]
-        }, 
+        },
         {
         "day": "Lørdag 9. april",
         "collections": [
@@ -342,7 +342,7 @@
                 "pic": "Arne farge.jpg",
                 "email": "arne.lovold@knowit.no"
               }
-            ],          
+            ],
             "title": "Innovasjon – hva er nå dette for noe som alle snakker om for tiden?",
             "type": "Lyntale (20 min)",
             "description": "Utvannet, overhypet, in-ord, misbrukt. Det er veldig mange meninger og utsagn om innovasjon for tiden. Hva er egentlig faget innovasjon, hva er det ikke, hvorfor er det så populært, hva kan man lære av dette og hva kan vi bruke det til. Sett fra en del av Masterprogrammet IT og ledelse på UiO, og et casestudie av Sparebank1 sin innovasjonsstrategi."
@@ -363,7 +363,7 @@
                 "pic": "sbh_knowit.no.jpg",
                 "email": "sbh@knowit.no"
               }
-            ],          
+            ],
             "title": "Brann- og redningsstatistikk on the fly med ElasticSearch - gjør din hverdag tryggere!",
             "type": "Lyntale (20 min)",
             "description": "Erfaringsrapport fra BRIS-prosjektet hos Direktoratet for samfunnssikkerhet og beredskap. BRIS er en ny rapportering- og statistikkløsning for brann- og redningsetatene som har blitt veldig godt mottatt ute hos brukerne. Og BRIS har blitt levert på tid og innenfor budsjett. Hvordan har prosjektet fått til dette? Vi vil vise deg hvordan løsningen fungerer i praksis, beskrive teknologi- og arkitekturvalg og si litt om selve prosjektgjennomføringen."
@@ -378,7 +378,7 @@
                 "pic": "",
                 "email": ""
               }
-            ],          
+            ],
             "title": "Hackit - Sikkerhet for din personlige server i skyen",
             "type": "Lyntaler, Workshop (165 min)",
             "description": "\"Jeg er IT-konsulent, men på sikkerhetsfronten er det nok en del basics jeg ikke kan så godt…\" Føles dette litt kjent? På vårt sikkerhetskurs går vi gjennom security basics og setter opp servere i skyen før vi viser deg hvordan du kan sikre den mot angripere. Og det beste av alt? På slutten av kurset vil du sitte igjen med en sikret, fiks ferdig personlig server i Amsterdam. Og den kan du gjøre hva du vil med."
@@ -393,7 +393,7 @@
                 "pic": "",
                 "email": ""
               }
-            ],          
+            ],
             "title": "Code challenge",
             "type": "Workshop (165 min)",
             "description": "Den nyoppstartede faggruppen \"Funksjonell programmering for folk flest\" arrangerer en workshop/konkurranse kalt \"Extreme Programming\". I konkurransen melder den enkelte deltakeren seg på en server, og løser fortløpende oppgaver som blir tilsendt deltakerne. Gjeldende stilling i konkurransen oppdateres kontinuerlig på en poengtavle, ikke så ulikt Programming ladder. Oppgavene i konkurransen kan løses i så godt som alle programmeringsspråk, men det oppfordres til å bruke et funksjonelt språk. Vi kommer til å tilby skjelettkode for et utvalg av programmeringsspråk før fagseminaret, slik at det blir mulig å laste ned det som trengs av biblioteker og liknende i forkant. Bli med enten du ønsker å konkurrere om 1. plass i et språk du er kjent med, eller du vil prøve deg på et nytt språk!"
@@ -414,7 +414,7 @@
                 "pic": "hfs.jpg",
                 "email": "hfs@knowit.no"
               }
-            ],          
+            ],
             "title": "Lean Startup: Playing Lean",
             "type": "Workshop (165 min)",
             "description": "Livet i startupen din er fylt av usikkerhet, fylt av lidenskap, og fylt av nudler og knekkebrød. Du er usikker på om noen kommer til å kjøpe produktet, på om dere klarer å lage det godt nok, på om investorene kommer til å maile deg tilbake, og tusen andre ting. Heldigvis finnes Lean Startup, et full rammeverk og masse god terminologi som hjelper deg med å gå metodisk til verks for å fjerne all usikkerheten. Kom og lær hvordan verden ser ut fra innsiden av en startup."
@@ -429,7 +429,7 @@
                 "pic": "frode.jpg",
                 "email": "froano@knowit.no"
               }
-            ],          
+            ],
             "title": "CoreOS - den perfekte Docker platform",
             "type": "Lyntale (10 min)",
             "description": "CoreOS er en kraftig Linux distribusjon laget for å gjøre store, skalerbare installasjoner på variert infrastruktur enkle å håndtere. Det er et lettvekts operativsystem, basert på en versjon av Chrome OS, og bruker Docker containere til å kjøre applikasjoner. Integrert i operativsystemet er løsninger som muliggjør clustering og drift på en enkel måte, med teknologier som etcd, systemd, fleet og docker. Dette gjør CoreOS til et ideelt valg for leveranse av tjenester på containere!"
@@ -444,7 +444,7 @@
                 "pic": "tøkje.jpg",
                 "email": "thomas.tokje@knowit.no"
               }
-            ],          
+            ],
             "title": "Nginx+lua",
             "type": "Lyntale (10 min)",
             "description": "Nginx er en open source webserver, og kan blant annet brukes som revers proxy, lastbalanserer og http-cache. Lua er et scriptingspråk med høy ytelse og et stort community. Slå disse sammen, og du har en fleksibel proxy med uante muligheter. I dette foredraget vil vi se på to praktiske eksempler for bruk av nginx+lua. I tillegg vil det bli fortalt litt om erfaringer etter å ha brukt nginx+lua i prosjektsammenheng."
@@ -459,7 +459,7 @@
                 "pic": "jos_knowit.no.jpg",
                 "email": "jos@knowit.no"
               }
-            ],          
+            ],
             "title": "MESOS Marathon",
             "type": "Lyntale (10 min)",
             "description": ""
@@ -474,7 +474,7 @@
                 "pic": "hph.jpg",
                 "email": "hph@knowit.no"
               }
-            ],          
+            ],
             "title": "Microservices og JEE appservere- inkompatible størrelser?",
             "type": "Lyntale (15 min)",
             "description": "Alle utviklere som har jobbet med IBM WebSphere har i etterkant lært seg betydningen av ordene \"strategisk inkompetanse\". JEE applikasjonsservere ble umoderne for mange år siden, og ble først erstattet av Jetty og Tomcat, og deretter Rails, Node, og andre hipster-compliant løsninger. Samtidig har microservices blitt den nye bølgen, og det sier vel seg selv at microservices må være den endelige spikeren i kista til de store, monolittiske appserverne. Eller..? Vi tar en nærmere titt på hva en moderne appserver har å tilby!"
@@ -489,7 +489,7 @@
                 "pic": "tfr.jpg",
                 "email": "tfr@knowit.no"
               }
-            ],          
+            ],
             "title": "Hva er kreativitet",
             "type": "Lyntale (20 min)",
             "description": "Innlegget presenterer forskning, erfaringer og tenkemåter som kan være relevante i kreativitetens mangfoldige landskap. Vi er kanskje vant til å tenke at kreativitet er å programmere gode IT-løsninger. Men er det også andre sider ved jobben hvor kreativitet er viktig? Kan man være kreativ i hvordan man møter vanskelige personer? I hvordan man møter kunden? I hvordan man forholder seg til sine kolleger? Hvilke aktiviteter/teknikker kan åpne for kreativitet?"
@@ -504,7 +504,7 @@
                 "pic": "lin.png",
                 "email": "lin@knowit.no"
               }
-            ],          
+            ],
             "title": "Rekruttering",
             "type": "Lyntale (10 min)",
             "description": "De siste årene har vi lyktes bra med rekruttering, spesielt av nyutdannete. Bak dette ligger målrettet og langvarig arbeid siden 2011 - lyntalen inneholder litt historikk, og tar for seg hvorfor vi har lyktes og hvilke utfordringer vi fortsatt har."
@@ -523,9 +523,9 @@
                 "name": "Christian Peter",
                 "bio": "Christian er utdannet ved NTNU i Trondheim og var ferdig med en master i informatikk våren 2015. Under studietiden jobbet Christian frivillig i den Internasjonale Student Festivalen i Trondheim, også kjent som ISFiT. Christian er en sosial person som liker å ta nye utfordringer på strak arm. Front-end utvikling er det Christian brenner mest for. Å kombinere tanker fra både designere og utviklere er det som skal til for å skape et front-end der brukeren trives.",
                 "pic": "cp.jpg",
-                "email": "christian.peter@knowit.no"              
+                "email": "christian.peter@knowit.no"
               }
-            ],          
+            ],
             "title": "iBeacons i praksis: the good, the bad and the ugly",
             "type": "Lyntale (10 min)",
             "description": "iBeacons er små, hippe, blåtannsendere som leder an internet of things revolusjonen. Hva kan de brukes til, hvilke utfordringer fører de med seg og hvorfor er de så sabla dyre? Kom på talk og finn ut!"
@@ -546,7 +546,7 @@
                 "pic": "Rune.Melhus.300x375.jpg",
                 "email": "rme@knowit.no"
               }
-            ],          
+            ],
             "title": "IDporten + Ruby",
             "type": "Lyntale (10 min)",
             "description": "Som alle vet er integrasjoner grinete, og få ting er enda mer grinete enn å gjøre det via SAML. Heldigvis har Rails flere biblioteker som kan gjøre opplevelsen langt mer behagelig. Vi demonstrerer konseptene og viser hvor lite kode som egentlig skal til for å få det hele opp og kjøre. Som en bonus får dere flere tips til hvordan dere unngår å dumme dere ut når det nærmer seg produksjonssetting."
@@ -561,7 +561,7 @@
                 "pic": "Michael.png",
                 "email": "michael.johansen@knowit.no"
               }
-            ],          
+            ],
             "title": "let JavaScript = (talk) => ({time: '10 minutes'});",
             "type": "Lyntale (10 min)",
             "description": "Føler du at JavaScript-miljøet er kaotisk og at språket er vanskelig å få grep på? Michael skal prate om det beste og det verste med det lille språket som har tatt over webplattformen. I denne lyntalen får du et perspektiv som hjelper deg med å sortere gjennom støyen og finne en angrepsvinkel."
@@ -576,7 +576,7 @@
                 "pic": "Kristoffer-Strekerud.jpg",
                 "email": "kristr@knowit.no"
               }
-            ],          
+            ],
             "title": "Flask - Et lettvektig webrammeverk i Python",
             "type": "Lyntale (10 min)",
             "description": "Flask er et utrolig lettvektig webrammeverk i Python som lar deg fyre opp en enkel webserver og lytte på endpoints på sekunder! Perfekt til hjemmeprosjekter og interne løsninger."
@@ -591,7 +591,7 @@
                 "pic": "imre.jpg",
                 "email": "imre.kerr@knowit.no"
               }
-            ],          
+            ],
             "title": "Imre Kerr",
             "type": "Lyntale (10 min)",
             "description": ""
@@ -606,7 +606,7 @@
                 "pic": "Sigurd-Lund.jpg",
                 "email": "sigurd.lund@knowit.no"
               }
-            ],          
+            ],
             "title": "Blockchain - Mer enn bare en digital valuta",
             "type": "Lyntale (20 min)",
             "description": "I denne talken blir det snakket om utviklingen videre fra Bitcoin til mange forskjellige cryptocurrencies, og hvordan fremtidsutsiktene ser ut. Det vil bli snakket litt mer detaljert om Ethereum og smarte kontrakter, og her vil det også komme noen kodeeksempler. Stikkord: Fremtiden, Web 3.0, desentralisering."
@@ -621,7 +621,7 @@
                 "pic": "mikal.jpg",
                 "email": "mikal.villa@knowit.no"
               }
-            ],          
+            ],
             "title": "Introduksjon til Bitcoin",
             "type": "Foredrag (30 min)",
             "description": "En gjennomgang av den offisielle Bitcoin klienten, og nettverket i seg selv. Her tar jeg opp komponentene til Bitcoin, og hvordan de jobber mot hverandre for å skape Bitcoin nettverket. Samt litt av utfordringene Bitcoin har. Etter introduksjonen skal deltakere ha en grunnleggende forståelse for hvordan Bitcoin og teknologien bak fungerer."
@@ -636,7 +636,7 @@
                 "pic": "Jens.Holm.300x375.jpg.png",
                 "email": "jhh@knowit.no"
               }
-            ],          
+            ],
             "title": "Bli forfatter",
             "type": "Lyntale (10 min)",
             "description": "Print-on-demand teknologi, E-bøker og globale distribusjons- og markedsføringskanaler har gjort det teknisk mulig å selge egenprodusert litteratur over hele verden. Jeg vil kort gå gjennom de tjenestene jeg har brukt for redigering, produksjon, distribusjon og markedsføring av min debut-roman Murillo's Millio, og mine erfaringer generelt med tjenestene og hva de innebærer av tid og kostnader."
@@ -651,7 +651,7 @@
                 "pic": "kes_knowit.no.jpg",
                 "email": "kes@knowit.no"
               }
-            ],          
+            ],
             "title": "Swagger/OpenAPI Specification",
             "type": "Lyntale (20 min)",
             "description": "Det snakkes veldig mye om API First i disse dager. I NDLA-prosjektet har vi omfavnet denne tankegangen, og har lekt oss med APIer det siste halvåret. Man kan påstå at et API ikke er bedre enn dokumentasjonen den tilbyr. I denne talken introduseres publikum for Swagger og OpenAPI Specification. Hva er dette, og hvordan komme i gang med Swagger?"
@@ -685,7 +685,7 @@
             "title": "Reactive",
             "type": "Lyntale (10 min)",
             "description": "\"Reactive\" er et buzzword som gjorde utslag på radaren min for noen år siden. I motsetning til mange andre buzzwords ser dette ut til å vokse og bli mer og mer aktuelt og etablert. Jeg får inntrykk av at mange \"heavy hitters\" i programvarebransjen påstår at reactive er en ting for framtidas systemer, og at framtida er her allerede nå. Ordet \"paradigmeskifte\" blir brukt. Firmaet back Scala, Akka og Play Framework har frontet \"The Reactive Manifesteo\", som er temmelig ullent, men framstår som noe de satser livene sine på. Det er på tide at jeg finner ut av 1) Hva er reaktive systemer og reaktiv programmering? 2) Hvorfor er det viktig? 3) Hva er koblingen til funksjonell programmering, cloud og Internet of Things? Jeg deler med dere det jeg har funnet ut hittil, og skal prøve å svare på \"hva i hampen er det egentlig?\" Fokus på begrepsavklaring og historiske trender. Minst mulig kode."
-        },        
+        },
         "tekst_tv": {
             "talkId": "tekst_tv",
             "pending": false,
@@ -715,7 +715,7 @@
             "title": "Programmering av minidroner med JavaScript",
             "type": "Lyntale (20 min)",
             "description": "Liker du flygende roboter? Liker du JavaScript? Selvsagt gjør du det! Cylon.js er et JavaScript-rammeverk for koding av roboter og annen hardware, og er en morsom og enkel ingangsport til IoT-utvikling. Cylon.js er basert på node.js og har utvidelser for å å styre et stort antall hardwaredingser, fra Arduino-brett til kommersielt tilgjengelige droner. Rammeverket abstraherer bort mange av de irriterende elementene ved hardware-programmering, og gjør deg i stand til å fokusere på det som er morsomt: å se koden din ta steget fra den digitale til den fysiske verden. Dette foredraget vil vise deg hvordan du med ekstremt lite kode kan styre en sverm av billige og lett tilgjengelige minidroner, mens du lærer både robotikk og JavaScript. Det blir live droneshow!"
-        },        
+        },
         "smart_city": {
             "talkId": "smart_city",
             "pending": false,
@@ -726,7 +726,7 @@
                 "pic": "Cathrine-Riise-Dannevig.jpg",
                 "email": "crd@knowit.no"
               }
-            ],          
+            ],
             "title": "Smart City",
             "type": "Workshop (60 min)",
             "description": ""
@@ -811,14 +811,14 @@
             "speakers": [
               {
                 "name": "Ole Bakstad",
-                "bio": "Ole er en faglig engasjert utvikler som også interesserer seg for utviklingsprosesser og organisasjonskultur med fokus på verdiskapning. Aktiv medlem av JavaBin og JavaZone sin programkomité.",
+                "bio": "Ole er en faglig engasjert utvikler som interesserer seg for alt fra programmering til utviklingsprosesser og organisasjonskultur. Spesielt interessert i hvordan tekniske valg påvirker måten man jobber på, jobbhverdagen til de ansatte og evnen til å skape verdi over tid. Aktiv medlem av JavaBin og JavaZone sin programkomité.",
                 "pic": "ob.jpg",
                 "email": "olebak@knowit.no"
               }
             ],
-            "title": "Kubernetes",
+            "title": "Kubernetes - få orden på containerne dine",
             "type": "Lyntale (10 min)",
-            "description": ""
+            "description": "Container- og skyteknologi er i vinden som aldri før, men hvordan håndterer man alle disse containerne der ute i skyen? I denne lyntalen vil jeg introdusere Kubernetes fra Google og vise hvordan det kan brukes i en hverdag hvor man kun forholder seg til containere. Stikkord er distribuert operativsystem, high availability, rullende oppdatering, nedefri deployment, automatisk skalering, mm."
         }
     }
 }
