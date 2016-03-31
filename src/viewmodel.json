@@ -119,7 +119,7 @@
             "entries": [
               {
                   "room": "Galleri",
-                  "slots": ["coreos", "nginx_lua", "mesos_marathon", "microservices_jee"]
+                  "slots": ["coreos", "nginx_lua", "microservices_jee"]
               },
               {
                   "room": "Tørrfisk",

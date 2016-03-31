@@ -14,7 +14,7 @@ import random
 if __name__ == '__main__':
 
 
-    pics = glob(join('pics/*'))
+    pics = glob(join('pics/*.*'))
     random.shuffle(pics)
 
     s = '''
