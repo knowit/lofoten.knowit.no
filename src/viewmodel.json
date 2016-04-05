@@ -54,7 +54,7 @@
             "entries": [
               {
                   "room": "Galleri",
-                  "slots": ["machine_learing_oleg", "machine_learing_johan", "elk"]
+                  "slots": ["machine_learing_johan", "machine_learing_oleg", "elk"]
               },
               {
                   "room": "Tørrfisk",
