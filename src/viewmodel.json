@@ -54,7 +54,7 @@
             "entries": [
               {
                   "room": "Galleri",
-                  "slots": ["machine_learing_oleg", "machine_learing_johan", "elk", "kubernetes"]
+                  "slots": ["machine_learing_oleg", "machine_learing_johan", "elk"]
               },
               {
                   "room": "Tørrfisk",
@@ -119,7 +119,7 @@
             "entries": [
               {
                   "room": "Galleri",
-                  "slots": ["coreos", "nginx_lua", "microservices_jee"]
+                  "slots": ["coreos", "nginx_lua", "kubernetes", "microservices_jee"]
               },
               {
                   "room": "Tørrfisk",
@@ -314,7 +314,7 @@
               }
             ],
             "title": "Twitter Sentiment Analysis",
-            "type": "Lyntale (10 min)",
+            "type": "Lyntale (20 min)",
             "description": "Twitter er full av folk som uttrykker følelser og meninger. Der finnes det enorme mengder data som venter på å bli utnyttet, og dette gjør Twitterdata ypperlig for tekstutvinning og sentimentklassifisering. Foredraget beskriver et state-of-the-art-system for å gjøre dette."
             },
         "elk": {
