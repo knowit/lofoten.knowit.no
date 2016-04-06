@@ -14,12 +14,12 @@
         "collections": [
           {
               "time": "15:00-17:00 Ad-hoc-fagråd",
-              "description": "(Rom: Rorbu) De som har lyst drodler rundt fagarbeid/strategi på en whiteboard.",
+              "description": "(Rom: Rorbu Suite 42) De som har lyst drodler rundt fagarbeid/strategi på en whiteboard.",
               "isBreak": true
           },
           {
               "time": "17:00-18:00 Abstractsmie",
-              "description": "(Rom: Rorbu) Uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig.",
+              "description": "(Rom: Rorbu Suite 42) Uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig.",
               "isBreak": true
           }
           ]
