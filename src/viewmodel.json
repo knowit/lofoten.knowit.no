@@ -524,12 +524,6 @@
                 "bio": "Henning er en glad og engasjert systemutvikler som elsker teknologi og å bruke denne til å løse problemer på best mulig måte. Han trives med oppgaver som krever planlegging og gjennomtenking for å løses på en god måte. Han har variert erfaring, både fra backendsystemer utviklet med Java og Scala, til webapplikasjoner utviklet med Ruby on Rails, HTML5, CSS og JavaScript. I tillegg har han erfaring fra apputvikling til Apple iOS, da primært i det nye programmeringsspråket Swift. Han har bakgrunn fra NTNU der han fullførte sin mastergrad våren 2015.",
                 "pic": "hw.jpg",
                 "email": "henning.wold@knowit.no"
-              },
-              {
-                "name": "Christian Peter",
-                "bio": "Christian er utdannet ved NTNU i Trondheim og var ferdig med en master i informatikk våren 2015. Under studietiden jobbet Christian frivillig i den Internasjonale Student Festivalen i Trondheim, også kjent som ISFiT. Christian er en sosial person som liker å ta nye utfordringer på strak arm. Front-end utvikling er det Christian brenner mest for. Å kombinere tanker fra både designere og utviklere er det som skal til for å skape et front-end der brukeren trives.",
-                "pic": "cp.jpg",
-                "email": "christian.peter@knowit.no"
               }
             ],
             "title": "iBeacons i praksis: the good, the bad and the ugly",
