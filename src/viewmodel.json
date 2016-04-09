@@ -106,7 +106,7 @@
               "entries": [
                 {
                     "room": "Galleri",
-                    "slots": ["dibk", "byggforalle", "ruterreise", "vegloggen", "mt", "toll", "spk", "politiet", "nrk"]
+                    "slots": ["dibk", "byggforalle", "vegloggen", "mt", "toll", "spk", "politiet", "nrk"]
                 }
               ]
           },
