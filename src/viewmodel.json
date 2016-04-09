@@ -67,7 +67,7 @@
               "isBreak": true
           },
           {
-            "time": "11:15-14:00 Workshops",
+            "time": "11:15-14:00 Workshops (lunsj underveis)",
             "entries": [
               {
                   "room": "Galleri",
@@ -84,7 +84,7 @@
             ]
           },
           {
-              "time": "14:00-14:30 Pause inkl. lunsj før fisketur",
+              "time": "14:00-14:30 Pause før fisketur",
               "isBreak": true
           }
         ]
