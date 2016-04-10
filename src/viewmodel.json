@@ -153,11 +153,11 @@
             "entries": [
               {
                   "room": "Galleri",
-                  "slots": ["bitcoin", "blockchain"]
+                  "slots": ["reactive", "bli_forfatter","minidroner"]
               },
               {
                   "room": "Tørrfisk",
-                  "slots": ["reactive", "bli_forfatter","minidroner"]
+                  "slots": ["bitcoin", "blockchain"]
               }
             ]
           },
