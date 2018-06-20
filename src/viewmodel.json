@@ -440,21 +440,6 @@
             "type": "Lyntale (10 min)",
             "description": "CoreOS er en kraftig Linux distribusjon laget for å gjøre store, skalerbare installasjoner på variert infrastruktur enkle å håndtere. Det er et lettvekts operativsystem, basert på en versjon av Chrome OS, og bruker Docker containere til å kjøre applikasjoner. Integrert i operativsystemet er løsninger som muliggjør clustering og drift på en enkel måte, med teknologier som etcd, systemd, fleet og docker. Dette gjør CoreOS til et ideelt valg for leveranse av tjenester på containere!"
             },
-        "nginx_lua": {
-            "talkId": "nginx_lua",
-            "pending": false,
-            "speakers": [
-              {
-                "name": "Thomas Tøkje",
-                "bio": "Utvikler med bakgrunn fra kybernetikk ved NTNU. Thomas er glad i å lære nye ting, og har gjennom sin utdanning og karriere lært seg å beherske et stort spenn av fagfelt, deriblant elektronikk, programmering og serverdrift.",
-                "pic": "tøkje.jpg",
-                "email": "thomas.tokje@knowit.no"
-              }
-            ],
-            "title": "Nginx+lua",
-            "type": "Lyntale (10 min)",
-            "description": "Nginx er en open source webserver, og kan blant annet brukes som revers proxy, lastbalanserer og http-cache. Lua er et scriptingspråk med høy ytelse og et stort community. Slå disse sammen, og du har en fleksibel proxy med uante muligheter. I dette foredraget vil vi se på to praktiske eksempler for bruk av nginx+lua. I tillegg vil det bli fortalt litt om erfaringer etter å ha brukt nginx+lua i prosjektsammenheng."
-            },
         "mesos_marathon": {
             "talkId": "mesos_marathon",
             "pending": false,
